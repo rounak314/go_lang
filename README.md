@@ -8,10 +8,12 @@
 
 
 ## Commands
-1. To initialize a go project.: **go mod init folder-name**
+1. **To initialize a go project**: *go mod init folder-name*
     ```
     - Marks the dir as GO project
     - Creates go.mod: requirements file in case of go
     - To be performed outside the dir which you want to make a go project
     ```
-2. To Run: **go run file_name.go**
+2. **To Run**: *go run file_name.go*
+3. **Help**: *go help*
+4. **Go Path**: *go env GOPATH*
