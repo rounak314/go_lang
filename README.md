@@ -14,4 +14,4 @@
     - Creates go.mod: requirements file in case of go
     - To be performed outside the dir which you want to make a go project
     ```
-2. To Run: **go run main.go**
+2. To Run: **go run file_name.go**
