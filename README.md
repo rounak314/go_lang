@@ -38,6 +38,9 @@
     - Maps
     - Struct
     - Pointers
+- If we dont define types then GO picks types automatically
+    - var someNumber = 10 (this is a int by default)
+    - var someNumber = 10
 
 ## Commands
 1. **To initialize a go project**: *go mod init folder-name*
